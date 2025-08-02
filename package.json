@@ -1,0 +1,22 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dev/typescript/main.js",
+  "bin": "dev/typescript/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "undici-types": "^7.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0"
+  },
+  "pkg": {
+    "targets": ["node18-win-x64"]
+  }
+}

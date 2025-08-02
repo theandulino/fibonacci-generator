@@ -1,0 +1,2 @@
+C:\Users\Andreas\Documents\fibonacci\dev\c#\FibonacciApp\bin\Release\net9.0\win-x64\publish\FibonacciApp.pdb
+C:\Users\Andreas\Documents\fibonacci\dev\c#\FibonacciApp\bin\Release\net9.0\win-x64\publish\FibonacciApp.exe
